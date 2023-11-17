@@ -32,6 +32,19 @@ public class Conditionals {
             salary += 1000 ;
         }
 
+        //Logical Operators in Conditionals  
+        
+        int a = 10 ;
+        int b = 40 ;
 
+        if (a == 10 && b == 10 ){
+            System.out.println("False");
+        }
+        else if (a == 10 || b == 10 ){
+            System.out.println("True");
+        }
+        else if (a != 10){
+            System.out.println("False");
+        }
     }
 }
