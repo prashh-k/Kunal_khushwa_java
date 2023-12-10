@@ -2,7 +2,7 @@ package Assignments.Lec_4_Array_ArrayList;
 
 import java.util.Arrays;
 
-public class Concatenation_Array {
+public class _1929_Concatenation_Array {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5};
 

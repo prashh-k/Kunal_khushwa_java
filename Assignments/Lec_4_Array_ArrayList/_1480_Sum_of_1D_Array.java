@@ -3,7 +3,7 @@ package Assignments.Lec_4_Array_ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Sum_of_1D_Array {
+public class _1480_Sum_of_1D_Array {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

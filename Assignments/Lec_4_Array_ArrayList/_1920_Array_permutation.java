@@ -1,9 +1,8 @@
 package Assignments.Lec_4_Array_ArrayList;
 
-
 import java.util.Arrays;
 
-public class Array_permutation {
+public class _1920_Array_permutation {
     public static void main(String[] args) {
         int[] arr  = {0,2,1,5,3,4};
 
