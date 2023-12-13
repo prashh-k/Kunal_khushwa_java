@@ -1,4 +1,4 @@
-package Assignments.Lec_4_Array_ArrayList;
+package Lectures.Lec_6_Linear_Searching;
 
 public class _1295_Numbers_with_even_number_digit {
     class Solution {
